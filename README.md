@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Cloud Solutions Architect / DevOps / Photographer
+## Cloud Solutions Architect / Infrastructure Engineer / DevOps / Photographer
 
 
 #### My main social profiles:
