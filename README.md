@@ -18,20 +18,22 @@ Here are some ideas to get you started:
 
 ## Cloud Solutions Architect / Infrastructure Engineer / DevOps / Photographer
 
-
-#### My main social profiles:
-<a href="https://twitter.com/ChristophShyper" target="_blank"><img height="20" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" /> Twitter</a> / 
-<a href="https://www.linkedin.com/in/krzysztof-szyper/" target="_blank"><img height="20" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /> LinkedIn</a> / 
-<a href="https://www.facebook.com/ChristophShyper/" target="_blank"><img height="20" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" /> Facebook</a> / 
-<a href="https://www.instagram.com/ChristophShyper/" target="_blank"><img height="20" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" /> Instagram</a> / 
-<a href="https://www.flickr.com/photos/151184530@N02/albums" target="_blank"><img height="20" src="https://unpkg.com/simple-icons@v3/icons/flickr.svg" /> Flickr</a>
-
-
-#### My websites
-<a href="https://github.com/devops-infra" target="_blank"><img height="20" src="https://avatars2.githubusercontent.com/u/63716145?s=400&u=37eea168495a5abfc24e66eac21f4cb85f72f222&v=4"> DevOps-Infra</a> / 
-<a href="https://shyper.pro/" target="_blank"><img height="20" src="https://cdn4.iconfinder.com/data/icons/bussines-people/572/man-glasses-computer-512.png" /> IT portfolio</a> / 
-<a href="https://photo.shyper.pro/" target="_blank"><img height="20" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/device-camera-512.png" /> Photo portfolio</a>
+### 👍 My main social profiles
+<a href="https://www.linkedin.com/in/krzysztof-szyper/" target="_blank"><img src="https://img.shields.io/badge/linkedin-krzysztof--szyper-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.facebook.com/ChristophShyper/" target="_blank"><img src="https://img.shields.io/badge/facebook-ChristophShyper-blue?style=for-the-badge&logo=facebook" /></a>
+<a href="https://www.instagram.com/christophshyper/" target="_blank"><img src="https://img.shields.io/badge/instagram-ChristophShyper-blue?style=for-the-badge&logo=instagram" /></a>
+<a href="https://www.flickr.com/photos/151184530@N02/albums" target="_blank"><img src="https://img.shields.io/badge/flickr-ChristophShyper-blue?style=for-the-badge&logo=flickr" /></a>
+<a href="https://twitter.com/ChristophShyper/" target="_blank"><img src="https://img.shields.io/badge/twitter-ChristophShyper-blue?style=for-the-badge&logo=twitter" /></a>
 
 
-#### Don't want to be just a cog anymore?
-<a href="https://grnh.se/5d547c4f1" target="_blank">Use referral link and join me at <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brainly_logo.png/250px-Brainly_logo.png" /></a> 
+### 🔥 My personal project
+<a href="https://github.com/devops-infra/" target="_blank"><img src="https://img.shields.io/badge/github-devops--infra-brightgreen?style=for-the-badge&logo=github" /></a>
+ 
+
+### 💻 My websites
+<a href="https://shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-it_professional-red?style=for-the-badge&logo=terraform" /></a>
+<a href="https://photo.shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-photography-red?style=for-the-badge&logo=photobucket" /></a>
+
+
+### Don't want to be just a cog anymore?
+<a href="https://grnh.se/5d547c4f1" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brainly_logo.png/250px-Brainly_logo.png" /> Use referral link and join me at Brainly</a> 
