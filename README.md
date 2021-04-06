@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ## Cloud Solutions Architect / Infrastructure Engineer / DevOps / Photographer
 
+[![ChristophShyper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristophShyper&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 👍 My main social profiles
 <a href="https://www.linkedin.com/in/krzysztof-szyper/" target="_blank"><img src="https://img.shields.io/badge/linkedin-krzysztof--szyper-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://www.facebook.com/ChristophShyper/" target="_blank"><img src="https://img.shields.io/badge/facebook-ChristophShyper-blue?style=for-the-badge&logo=facebook" /></a>
