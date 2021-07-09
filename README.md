@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Cloud Solutions Architect / Infrastructure Engineer / DevOps / Photographer
 
-[![ChristophShyper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristophShyper&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[Disabled now]: <> ([![ChristophShyper's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=ChristophShyper&count_private=true&show_icons=true&theme=algolia&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 
 ### 👍 My main social profiles
@@ -33,9 +33,41 @@ Here are some ideas to get you started:
 <a href="https://github.com/devops-infra/" target="_blank"><img src="https://img.shields.io/badge/github-devops--infra-brightgreen?style=for-the-badge&logo=github" /></a>
  
 
-### 💻 My websites
+### 🌍 My websites
 <a href="https://shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-it_professional-red?style=for-the-badge&logo=terraform" /></a>
 <a href="https://photo.shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-photography-red?style=for-the-badge&logo=photobucket" /></a>
+
+
+### 💻 My other contributions
+* <a href="https://github.com/cloudflare/terraform-provider-cloudflare" target="_blank">cloudflare/terraform-provider-cloudflare</a> (🚧 issues)
+* <a href="https://github.com/cloudflare/coopergillan/terraform-provider-redshift" target="_blank">coopergillan/terraform-provider-redshift</a> (🚧 issues)
+* <a href="https://github.com/cloudflare/jertel/elastalert2" target="_blank">jertel/elastalert2</a> (💻 code)
+* <a href="https://github.com/gruntwork-io/terragrunt" target="_blank">gruntwork-io/terragrunt</a> (🚧 issues)
+* <a href="https://github.com/hashicorp/terraform" target="_blank">hashicorp/terraform</a> (🚧 issues)
+* <a href="https://github.com/hashicorp/terraform-provider-aws" target="_blank">hashicorp/terraform-provider-aws</a> (💻 code, 🚧 issues)
+* <a href="https://github.com/integrations/terraform-provider-github" target="_blank">integrations/terraform-provider-github</a> (🚧 issues)
+* <a href="https://github.com/minamijoyo/hcledit" target="_blank">minamijoyo/hcledit</a> (🚧 issues)
+* <a href="https://github.com/Nike-Inc/gimme-aws-creds" target="_blank">Nike-Inc/gimme-aws-creds</a> (💻 code)
+* <a href="https://github.com/okta/terraform-provider-okta" target="_blank">okta/terraform-provider-okta</a> (💻 code)
+* <a href="https://github.com/terraform-aws-modules/terraform-aws-lambda" target="_blank">terraform-aws-modules/terraform-aws-lambda</a> (💻 code)
+
+<!--
+https://docs.github.com/en/graphql/overview/explorer
+{
+  viewer {
+    repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
+      totalCount
+      nodes {
+        nameWithOwner
+      }
+      pageInfo {
+        endCursor
+        hasNextPage
+      }
+    }
+  }
+}
+-->
 
 
 ### Don't want to be just a cog anymore?
