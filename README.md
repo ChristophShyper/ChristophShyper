@@ -39,17 +39,22 @@ Here are some ideas to get you started:
 
 
 ### 💻 My other contributions
-* <a href="https://github.com/cloudflare/terraform-provider-cloudflare" target="_blank">cloudflare/terraform-provider-cloudflare</a> (🚧 issues)
-* <a href="https://github.com/cloudflare/coopergillan/terraform-provider-redshift" target="_blank">coopergillan/terraform-provider-redshift</a> (🚧 issues)
-* <a href="https://github.com/cloudflare/jertel/elastalert2" target="_blank">jertel/elastalert2</a> (💻 code)
-* <a href="https://github.com/gruntwork-io/terragrunt" target="_blank">gruntwork-io/terragrunt</a> (🚧 issues)
-* <a href="https://github.com/hashicorp/terraform" target="_blank">hashicorp/terraform</a> (🚧 issues)
+* <a href="https://github.com/aws-quickstart/quickstart-linux-bastion" target="_blank">aws-quickstart/quickstart-linux-bastion</a> (💻 code)
 * <a href="https://github.com/hashicorp/terraform-provider-aws" target="_blank">hashicorp/terraform-provider-aws</a> (💻 code, 🚧 issues)
-* <a href="https://github.com/integrations/terraform-provider-github" target="_blank">integrations/terraform-provider-github</a> (🚧 issues)
-* <a href="https://github.com/minamijoyo/hcledit" target="_blank">minamijoyo/hcledit</a> (🚧 issues)
 * <a href="https://github.com/Nike-Inc/gimme-aws-creds" target="_blank">Nike-Inc/gimme-aws-creds</a> (💻 code)
 * <a href="https://github.com/okta/terraform-provider-okta" target="_blank">okta/terraform-provider-okta</a> (💻 code)
 * <a href="https://github.com/terraform-aws-modules/terraform-aws-lambda" target="_blank">terraform-aws-modules/terraform-aws-lambda</a> (💻 code)
+
+<!--
+* <a href="https://github.com/cloudflare/jertel/elastalert2" target="_blank">jertel/elastalert2</a> (💻 code)
+
+* <a href="https://github.com/cloudflare/terraform-provider-cloudflare" target="_blank">cloudflare/terraform-provider-cloudflare</a> (🚧 issues)
+* <a href="https://github.com/cloudflare/coopergillan/terraform-provider-redshift" target="_blank">coopergillan/terraform-provider-redshift</a> (🚧 issues)
+* <a href="https://github.com/gruntwork-io/terragrunt" target="_blank">gruntwork-io/terragrunt</a> (🚧 issues)
+* <a href="https://github.com/hashicorp/terraform" target="_blank">hashicorp/terraform</a> (🚧 issues)
+* <a href="https://github.com/integrations/terraform-provider-github" target="_blank">integrations/terraform-provider-github</a> (🚧 issues)
+* <a href="https://github.com/minamijoyo/hcledit" target="_blank">minamijoyo/hcledit</a> (🚧 issues)
+-->
 
 <!--
 https://docs.github.com/en/graphql/overview/explorer
