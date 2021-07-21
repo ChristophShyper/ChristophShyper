@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### 💻 My other contributions
 * <a href="https://github.com/aws-quickstart/quickstart-linux-bastion" target="_blank">aws-quickstart/quickstart-linux-bastion</a> (💻 code)
 * <a href="https://github.com/hashicorp/terraform-provider-aws" target="_blank">hashicorp/terraform-provider-aws</a> (💻 code, 🚧 issues)
+* <a href="https://github.com/jertel/elastalert2" target="_blank">jertel/elastalert2</a> (💻 code)
 * <a href="https://github.com/Nike-Inc/gimme-aws-creds" target="_blank">Nike-Inc/gimme-aws-creds</a> (💻 code)
 * <a href="https://github.com/okta/terraform-provider-okta" target="_blank">okta/terraform-provider-okta</a> (💻 code)
 * <a href="https://github.com/terraform-aws-modules/terraform-aws-lambda" target="_blank">terraform-aws-modules/terraform-aws-lambda</a> (💻 code)
