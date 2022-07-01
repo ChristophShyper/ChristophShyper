@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 ### 💻 My other contributions
 * <a href="https://github.com/aws-quickstart/quickstart-linux-bastion" target="_blank">aws-quickstart/quickstart-linux-bastion</a> (💻 code)
+* <a href="https://github.com/cloudflare/terraform-provider-cloudflare" target="_blank">cloudflare/terraform-provider-cloudflare</a> (💻 code)
 * <a href="https://github.com/hashicorp/terraform-provider-aws" target="_blank">hashicorp/terraform-provider-aws</a> (💻 code, 🚧 issues)
 * <a href="https://github.com/jertel/elastalert2" target="_blank">jertel/elastalert2</a> (💻 code)
 * <a href="https://github.com/Nike-Inc/gimme-aws-creds" target="_blank">Nike-Inc/gimme-aws-creds</a> (💻 code)
