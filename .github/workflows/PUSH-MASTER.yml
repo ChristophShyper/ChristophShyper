@@ -24,12 +24,3 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           yaml-file: .tmp/labels.yml
-
-  example:
-    name: Example
-    runs-on: ubuntu-latest
-    steps:
-      - name: Example
-        shell: bash
-        run: |
-          echo -e "\n[INFO] Example from ${{ github.ref }}"

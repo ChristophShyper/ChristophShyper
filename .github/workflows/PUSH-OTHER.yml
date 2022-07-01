@@ -4,7 +4,6 @@ on:
   push:
     branches-ignore:
       - master
-      - release/*
 
 jobs:
   labels:
@@ -26,15 +25,6 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           yaml-file: .tmp/labels.yml
           dry-run: true
-
-  example:
-    name: Example
-    runs-on: ubuntu-latest
-    steps:
-      - name: Example
-        shell: bash
-        run: |
-          echo -e "\n[INFO] Example from ${{ github.ref }}"
 
   pull_request:
     name: Create Pull Request
