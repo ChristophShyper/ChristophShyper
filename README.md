@@ -77,5 +77,5 @@ https://docs.github.com/en/graphql/overview/explorer
 -->
 
 
-### Don't want to be just a cog anymore?
-<a href="https://grnh.se/5d547c4f1" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brainly_logo.png/250px-Brainly_logo.png" /> Use referral link and join me at Brainly</a> 
+### Want to join me at Brainly?
+<a href="https://careers.brainly.com/open-positions?utm_source=q25J49jMp2" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brainly_logo.png/250px-Brainly_logo.png" /> Use my referral link</a> 
