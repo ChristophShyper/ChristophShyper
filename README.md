@@ -21,31 +21,41 @@ Here are some ideas to get you started:
 [Disabled now]: <> ([![ChristophShyper's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=ChristophShyper&count_private=true&show_icons=true&theme=algolia&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 
-### 👍 My main social profiles
-<a href="https://www.linkedin.com/in/krzysztof-szyper/" target="_blank"><img src="https://img.shields.io/badge/linkedin-krzysztof--szyper-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://www.facebook.com/ChristophShyper/" target="_blank"><img src="https://img.shields.io/badge/facebook-ChristophShyper-blue?style=for-the-badge&logo=facebook" /></a>
-<a href="https://www.instagram.com/christophshyper/" target="_blank"><img src="https://img.shields.io/badge/instagram-ChristophShyper-blue?style=for-the-badge&logo=instagram" /></a>
-<a href="https://www.flickr.com/photos/151184530@N02/albums" target="_blank"><img src="https://img.shields.io/badge/flickr-ChristophShyper-blue?style=for-the-badge&logo=flickr" /></a>
-<a href="https://twitter.com/ChristophShyper/" target="_blank"><img src="https://img.shields.io/badge/twitter-ChristophShyper-blue?style=for-the-badge&logo=twitter" /></a>
-
-
-### 🔥 My personal project
+### 🔥 Personal project
 <a href="https://github.com/devops-infra/" target="_blank"><img src="https://img.shields.io/badge/github-devops--infra-brightgreen?style=for-the-badge&logo=github" /></a>
- 
-
-### 🌍 My websites
-<a href="https://shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-it_professional-red?style=for-the-badge&logo=terraform" /></a>
-<a href="https://photo.shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-photography-red?style=for-the-badge&logo=photobucket" /></a>
+<a href="https://hub.docker.com/u/devopsinfra" target="_blank"><img src="https://img.shields.io/badge/docker-devopsinfra-brightgreen?style=for-the-badge&logo=docker" /></a>
 
 
-### 💻 My other contributions
+### 📰 Publications
+* <a href="https://medium.com/brainly/separating-cloud-environments-with-routing-domains-bd3287ee6ebe" target="_blank">Separating Cloud Environments with Routing Domains @ Medium</a>
+* <a href="https://medium.com/brainly/getting-started-with-aws-the-proper-way-no-more-iam-users-32e94f1d52b6" target="_blank">Getting Started with AWS the Proper Way: No More IAM Users @ Medium</a>
+
+
+### 💻 Other contributions
 * <a href="https://github.com/aws-quickstart/quickstart-linux-bastion" target="_blank">aws-quickstart/quickstart-linux-bastion</a> (💻 code)
 * <a href="https://github.com/cloudflare/terraform-provider-cloudflare" target="_blank">cloudflare/terraform-provider-cloudflare</a> (💻 code)
-* <a href="https://github.com/hashicorp/terraform-provider-aws" target="_blank">hashicorp/terraform-provider-aws</a> (💻 code, 🚧 issues)
+* <a href="https://github.com/hashicorp/terraform-provider-aws" target="_blank">hashicorp/terraform-provider-aws</a> (💻 code)
 * <a href="https://github.com/jertel/elastalert2" target="_blank">jertel/elastalert2</a> (💻 code)
 * <a href="https://github.com/Nike-Inc/gimme-aws-creds" target="_blank">Nike-Inc/gimme-aws-creds</a> (💻 code)
 * <a href="https://github.com/okta/terraform-provider-okta" target="_blank">okta/terraform-provider-okta</a> (💻 code)
 * <a href="https://github.com/terraform-aws-modules/terraform-aws-lambda" target="_blank">terraform-aws-modules/terraform-aws-lambda</a> (💻 code)
+
+
+### 🌍 Websites
+<a href="https://shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-it_professional-red?style=for-the-badge&logo=terraform" /></a>
+<a href="https://photo.shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-photography-red?style=for-the-badge&logo=photobucket" /></a>
+
+
+### 👍 Main social profiles
+<a href="https://www.linkedin.com/in/krzysztof-szyper/" target="_blank"><img src="https://img.shields.io/badge/linkedin-krzysztof--szyper-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.facebook.com/ChristophShyper/" target="_blank"><img src="https://img.shields.io/badge/facebook-ChristophShyper-blue?style=for-the-badge&logo=facebook" /></a>
+<a href="https://www.instagram.com/christophshyper/" target="_blank"><img src="https://img.shields.io/badge/instagram-ChristophShyper-blue?style=for-the-badge&logo=instagram" /></a>
+<a href="https://www.instagram.com/shyper.portraits/" target="_blank"><img src="https://img.shields.io/badge/instagram-shyper.portraits-blue?style=for-the-badge&logo=instagram" /></a>
+<a href="https://www.instagram.com/shyper.aviation/" target="_blank"><img src="https://img.shields.io/badge/instagram-shyper.aviation-blue?style=for-the-badge&logo=instagram" /></a>
+
+[//]: # (<a href="https://www.flickr.com/photos/151184530@N02/albums" target="_blank"><img src="https://img.shields.io/badge/flickr-ChristophShyper-blue?style=for-the-badge&logo=flickr" /></a>)
+[//]: # (<a href="https://twitter.com/ChristophShyper/" target="_blank"><img src="https://img.shields.io/badge/twitter-ChristophShyper-blue?style=for-the-badge&logo=twitter" /></a>)
+
 
 <!--
 * <a href="https://github.com/cloudflare/jertel/elastalert2" target="_blank">jertel/elastalert2</a> (💻 code)
@@ -75,7 +85,3 @@ https://docs.github.com/en/graphql/overview/explorer
   }
 }
 -->
-
-
-### Want to join me at Brainly?
-<a href="https://careers.brainly.com/open-positions?utm_source=q25J49jMp2" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brainly_logo.png/250px-Brainly_logo.png" /> Use my referral link</a> 
