@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 
 
 ### 📰 Publications
-* <a href="https://medium.com/brainly/separating-cloud-environments-with-routing-domains-bd3287ee6ebe" target="_blank">Separating Cloud Environments with Routing Domains @ Medium</a>
-* <a href="https://medium.com/brainly/getting-started-with-aws-the-proper-way-no-more-iam-users-32e94f1d52b6" target="_blank">Getting Started with AWS the Proper Way: No More IAM Users @ Medium</a>
+* <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws" target="_blank">Getting started with AWS - the proper way - no more IAM users</a>: <a href="https://youtu.be/-1lWLP7Hb3A?t=1411" target="_blank">{presentation on AWS User Group meetup (2024)</a>, and <a href="https://medium.com/brainly/getting-started-with-aws-the-proper-way-no-more-iam-users-32e94f1d52b6" target="_blank">article on Medium (2024)</a> - well-received, leading to additional speaking invitations.
+* <a href="https://medium.com/brainly/separating-cloud-environments-with-routing-domains-bd3287ee6ebe" target="_blank">Separating cloud environments with routing domains</a>: article on Medium (2023).
+* <a href="https://github.com/ChristophShyper/presentation-routing" target="_blank">Managing networking chaos while migrating to AWS multi-account architecture</a>: presentation on AWS User Group meetup (2020).
+* <a href="https://github.com/ChristophShyper/presentation-lambda" target="_blank">Understanding AWS Lambda</a>: deep-dive presentation on DevOps Community Poland meetup (2019).
 
 
 ### 💻 Other contributions
