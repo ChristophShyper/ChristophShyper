@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 [//]: # (<a href="https://www.flickr.com/photos/151184530@N02/albums" target="_blank"><img src="https://img.shields.io/badge/flickr-ChristophShyper-blue?style=for-the-badge&logo=flickr" /></a>)
 [//]: # (<a href="https://twitter.com/ChristophShyper/" target="_blank"><img src="https://img.shields.io/badge/twitter-ChristophShyper-blue?style=for-the-badge&logo=twitter" /></a>)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=christophshyper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 * <a href="https://github.com/cloudflare/jertel/elastalert2" target="_blank">jertel/elastalert2</a> (💻 code)
