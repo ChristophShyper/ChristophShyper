@@ -22,15 +22,20 @@ Here are some ideas to get you started:
 
 
 ### 🔥 Pet projects
-<a href="https://github.com/devops-infra/" target="_blank"><img src="https://img.shields.io/badge/github-devops--infra-brightgreen?style=for-the-badge&logo=github" /></a>
-<a href="https://hub.docker.com/u/devopsinfra" target="_blank"><img src="https://img.shields.io/badge/docker-devopsinfra-brightgreen?style=for-the-badge&logo=docker" /></a>
+* <a href="https://github.com/devops-infra/" target="_blank"><img src="https://img.shields.io/badge/github-devops--infra-brightgreen?style=for-the-badge&logo=github" /></a>
+* <a href="https://hub.docker.com/u/devopsinfra" target="_blank"><img src="https://img.shields.io/badge/docker-devopsinfra-brightgreen?style=for-the-badge&logo=docker" /></a>
 
 
-### 📰 Publications
+### 🖥️ Presentations
+* Getting started with AWS - the proper way - no more IAM users: <a href="https://www.youtube.com/watch?v=C2729nhbzp8" target="_blank"> second part of presentation at AWS User Group meetup (2024)</a> - article and Terraform module to come.
 * <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws" target="_blank">Getting started with AWS - the proper way - no more IAM users</a>: <a href="https://youtu.be/-1lWLP7Hb3A?t=1411" target="_blank">presentation at AWS User Group meetup (2024)</a>, and <a href="https://medium.com/brainly/getting-started-with-aws-the-proper-way-no-more-iam-users-32e94f1d52b6" target="_blank">article on Medium</a> (2024) - well-received, leading to additional speaking invitations.
-* <a href="https://medium.com/brainly/separating-cloud-environments-with-routing-domains-bd3287ee6ebe" target="_blank">Separating cloud environments with routing domains</a>: article on Medium (2023).
 * <a href="https://github.com/ChristophShyper/presentation-routing" target="_blank">Managing networking chaos while migrating to AWS multi-account architecture</a>: presentation at AWS User Group meetup (2020).
 * <a href="https://github.com/ChristophShyper/presentation-lambda" target="_blank">Understanding AWS Lambda</a>: deep-dive presentation at DevOps Community Poland meetup (2019).
+
+
+### 📚 Articles
+* <a href="" target="_blank">Getting started with AWS - the proper way - no more IAM users</a>: <a href="https://medium.com/brainly/getting-started-with-aws-the-proper-way-no-more-iam-users-32e94f1d52b6" target="_blank">article on Medium</a> (2024) - well-received, leading to additional speaking invitations.
+* <a href="https://medium.com/brainly/separating-cloud-environments-with-routing-domains-bd3287ee6ebe" target="_blank">Separating cloud environments with routing domains</a>: article on Medium (2023).
 
 
 ### 💻 Other contributions
