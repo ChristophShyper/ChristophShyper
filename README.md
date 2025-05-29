@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 
 
 ### 🖥️ Presentations
-* Getting started with AWS - the proper way - no more IAM users: <a href="https://www.youtube.com/watch?v=C2729nhbzp8" target="_blank"> second part of presentation at AWS User Group Silesia meetup (2024)</a> - article and Terraform module to come.
-* <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws" target="_blank">Getting started with AWS - the proper way - no more IAM users</a>: <a href="https://youtu.be/-1lWLP7Hb3A?t=1411" target="_blank">presentation at AWS User Group Kraków meetup (2024)</a> - well-received, leading to additional speaking invitations.
-* <a href="https://github.com/ChristophShyper/presentation-routing" target="_blank">Managing networking chaos while migrating to AWS multi-account architecture</a>: presentation at AWS User Group Kraków meetup (2020).
-* <a href="https://github.com/ChristophShyper/presentation-lambda" target="_blank">Understanding AWS Lambda</a>: deep-dive presentation at DevOps Community Poland (EPAM) meetup (2019).
+* **Getting started with AWS the proper way - no more IAM users (part 2 - SSO/IC)**: second part of IAM presentation; **AWS User Group Silesia** meetup; 2024; <a href="https://www.youtube.com/watch?v=C2729nhbzp8" target="_blank">🎥 recording</a>; article and Terraform module to come.
+* **Getting started with AWS the proper way - no more IAM users (part 1 - SAML)**: well-received, leading to additional speaking invitations; **AWS User Group Kraków** meetup; 2024; <a href="https://youtu.be/-1lWLP7Hb3A?t=1411" target="_blank"> 🎥 recording</a>; <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws" target="_blank">🖥️💻 slides and code</a>.
+* **Managing networking chaos while migrating to AWS multi-account architecture**: insight into routing and ACLs at scale; **AWS User Group Kraków** meetup; 2020; <a href="https://github.com/ChristophShyper/presentation-routing" target="_blank">🖥️ slides</a>.
+* **Understanding AWS Lambda**: deep-dive into AWS Lambda; **DevOps Community Poland** (EPAM) meetup; 2019; <a href="https://github.com/ChristophShyper/presentation-lambda" target="_blank">🖥️ slides</a>.
 
 
 ### 📚 Articles
-* <a href="" target="_blank">Getting started with AWS - the proper way - no more IAM users</a>: <a href="https://medium.com/brainly/getting-started-with-aws-the-proper-way-no-more-iam-users-32e94f1d52b6" target="_blank">article on Medium</a> (2024) - well-received, leading to additional speaking invitations.
-* <a href="https://medium.com/brainly/separating-cloud-environments-with-routing-domains-bd3287ee6ebe" target="_blank">Separating cloud environments with routing domains</a>: article on Medium (2023).
+* **Getting started with AWS the proper way - no more IAM users (part 1)**: <a href="https://medium.com/brainly/getting-started-with-aws-the-proper-way-no-more-iam-users-32e94f1d52b6" target="_blank">📰 article on Medium</a>; 2024.
+* **Separating cloud environments with routing domains**: <a href="https://medium.com/brainly/separating-cloud-environments-with-routing-domains-bd3287ee6ebe" target="_blank">📰 article on Medium</a>; 2023.
 
 
 ### 💻 Other contributions
