@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 
 ### 🖥️ Presentations
-* Getting started with AWS - the proper way - no more IAM users: <a href="https://www.youtube.com/watch?v=C2729nhbzp8" target="_blank"> second part of presentation at AWS User Group meetup (2024)</a> - article and Terraform module to come.
-* <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws" target="_blank">Getting started with AWS - the proper way - no more IAM users</a>: <a href="https://youtu.be/-1lWLP7Hb3A?t=1411" target="_blank">presentation at AWS User Group meetup (2024)</a>, and <a href="https://medium.com/brainly/getting-started-with-aws-the-proper-way-no-more-iam-users-32e94f1d52b6" target="_blank">article on Medium</a> (2024) - well-received, leading to additional speaking invitations.
-* <a href="https://github.com/ChristophShyper/presentation-routing" target="_blank">Managing networking chaos while migrating to AWS multi-account architecture</a>: presentation at AWS User Group meetup (2020).
-* <a href="https://github.com/ChristophShyper/presentation-lambda" target="_blank">Understanding AWS Lambda</a>: deep-dive presentation at DevOps Community Poland meetup (2019).
+* Getting started with AWS - the proper way - no more IAM users: <a href="https://www.youtube.com/watch?v=C2729nhbzp8" target="_blank"> second part of presentation at AWS User Group Silesia meetup (2024)</a> - article and Terraform module to come.
+* <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws" target="_blank">Getting started with AWS - the proper way - no more IAM users</a>: <a href="https://youtu.be/-1lWLP7Hb3A?t=1411" target="_blank">presentation at AWS User Group Kraków meetup (2024)</a> - well-received, leading to additional speaking invitations.
+* <a href="https://github.com/ChristophShyper/presentation-routing" target="_blank">Managing networking chaos while migrating to AWS multi-account architecture</a>: presentation at AWS User Group Kraków meetup (2020).
+* <a href="https://github.com/ChristophShyper/presentation-lambda" target="_blank">Understanding AWS Lambda</a>: deep-dive presentation at DevOps Community Poland (EPAM) meetup (2019).
 
 
 ### 📚 Articles
