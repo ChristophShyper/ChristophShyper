@@ -27,10 +27,14 @@ Here are some ideas to get you started:
 
 
 ### 🖥️ Presentations
-* **Getting started with AWS the proper way - no more IAM users (part 2 - SSO/IC)**: second part of IAM presentation; **AWS User Group Silesia** meetup; 2024; <a href="https://www.youtube.com/watch?v=C2729nhbzp8" target="_blank">🎥 recording</a>; article and Terraform module to come.
-* **Getting started with AWS the proper way - no more IAM users (part 1 - SAML)**: well-received, leading to additional speaking invitations; **AWS User Group Kraków** meetup; 2024; <a href="https://youtu.be/-1lWLP7Hb3A?t=1411" target="_blank"> 🎥 recording</a>; <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws" target="_blank">🖥️💻 slides and code</a>.
-* **Managing networking chaos while migrating to AWS multi-account architecture**: insight into routing and ACLs at scale; **AWS User Group Kraków** meetup; 2020; <a href="https://github.com/ChristophShyper/presentation-routing" target="_blank">🖥️ slides</a>.
-* **Understanding AWS Lambda**: deep-dive into AWS Lambda; **DevOps Community Poland** (EPAM) meetup; 2019; <a href="https://github.com/ChristophShyper/presentation-lambda" target="_blank">🖥️ slides</a>.
+* **Getting started with AWS the proper way - no more IAM users (part 2 - SSO/IC)**: second part of IAM presentation; 
+<br>**AWS User Group Silesia** meetup; 2024; <a href="https://www.youtube.com/watch?v=C2729nhbzp8" target="_blank">🎥 recording</a>; article and Terraform module to come.
+* **Getting started with AWS the proper way - no more IAM users (part 1 - SAML)**: well-received, leading to additional speaking invitations;
+<br>**AWS User Group Kraków** meetup; 2024; <a href="https://youtu.be/-1lWLP7Hb3A?t=1411" target="_blank"> 🎥 recording</a>; <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws" target="_blank">🖥️💻 slides and code</a>.
+* **Managing networking chaos while migrating to AWS multi-account architecture**: insight into routing and ACLs at scale;
+<br>**AWS User Group Kraków** meetup; 2020; <a href="https://github.com/ChristophShyper/presentation-routing" target="_blank">🖥️ slides</a>.
+* **Understanding AWS Lambda**: deep-dive into AWS Lambda;
+<br>**DevOps Community Poland** (EPAM) meetup; 2019; <a href="https://github.com/ChristophShyper/presentation-lambda" target="_blank">🖥️ slides</a>.
 
 
 ### 📚 Articles
