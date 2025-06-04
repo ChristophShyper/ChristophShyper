@@ -24,37 +24,30 @@ Here are some ideas to get you started:
 ### 🔥 Pet projects
 * <a href="https://github.com/devops-infra/" target="_blank"><img src="https://img.shields.io/badge/github-devops--infra-brightgreen?style=for-the-badge&logo=github" /></a>
 * <a href="https://hub.docker.com/u/devopsinfra" target="_blank"><img src="https://img.shields.io/badge/docker-devopsinfra-brightgreen?style=for-the-badge&logo=docker" /></a>
+* <a href="https://shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-it_professional-red?style=for-the-badge&logo=terraform" /></a>
+* <a href="https://photo.shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-photography-red?style=for-the-badge&logo=photobucket" /></a>
 
 
 ### 🖥️ Presentations
-* **Getting started with AWS the proper way - no more IAM users (part 2 - SSO/IC)**: second part of IAM presentation; 
-<br>**AWS User Group Silesia** meetup; 2024; <a href="https://www.youtube.com/watch?v=C2729nhbzp8" target="_blank">🎥 recording</a>; article and Terraform module to come.
-* **Getting started with AWS the proper way - no more IAM users (part 1 - SAML)**: well-received, leading to additional speaking invitations;
-<br>**AWS User Group Kraków** meetup; 2024; <a href="https://youtu.be/-1lWLP7Hb3A?t=1411" target="_blank"> 🎥 recording</a>; <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws" target="_blank">🖥️💻 slides and code</a>.
-* **Managing networking chaos while migrating to AWS multi-account architecture**: insight into routing and ACLs at scale;
-<br>**AWS User Group Kraków** meetup; 2020; <a href="https://github.com/ChristophShyper/presentation-routing" target="_blank">🖥️ slides</a>.
-* **Understanding AWS Lambda**: deep-dive into AWS Lambda;
-<br>**DevOps Community Poland** (EPAM) meetup; 2019; <a href="https://github.com/ChristophShyper/presentation-lambda" target="_blank">🖥️ slides</a>.
+* <a href="https://www.youtube.com/watch?v=C2729nhbzp8" target="_blank">🎥 recording (AWS UG Silesia)</a>; _article and a Terraform module to come_: **Getting started with AWS the proper way - no more IAM users (part 2 - SSO/IC)**. <br>A second part of IAM presentation - **AWS User Group Silesia** meetup, 2024.
+* <a href="https://youtu.be/-1lWLP7Hb3A?t=1411" target="_blank">🎥 recording</a>; <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws/blob/main/Presentation.pdf" target="_blank">🖥️ slides</a>; and <a href="https://github.com/ChristophShyper/presentation-okta-saml-aws/tree/main/module-okta-saml-aws" target="_blank">💻 code</a>: **Getting started with AWS the proper way - no more IAM users (part 1 - SAML)**.<br>Well-received, leading to additional speaking invitations - **AWS User Group Kraków** meetup, 2024.
+* <a href="https://github.com/ChristophShyper/presentation-routing" target="_blank">🖥️ slides</a>: **Managing networking chaos while migrating to AWS multi-account architecture**;<br>Insight into routing and ACLs at scale; **AWS User Group Kraków** meetup; 2020.
+* <a href="https://github.com/ChristophShyper/presentation-lambda" target="_blank">🖥️ slides</a>: **Understanding AWS Lambda**;<br>Deep-dive into AWS Lambda; **DevOps Community Poland** (EPAM) meetup; 2019.
 
 
 ### 📚 Articles
-* **Getting started with AWS the proper way - no more IAM users (part 1)**: <a href="https://medium.com/brainly/getting-started-with-aws-the-proper-way-no-more-iam-users-32e94f1d52b6" target="_blank">📰 article on Medium</a>; 2024.
-* **Separating cloud environments with routing domains**: <a href="https://medium.com/brainly/separating-cloud-environments-with-routing-domains-bd3287ee6ebe" target="_blank">📰 article on Medium</a>; 2023.
+* <a href="https://medium.com/brainly/getting-started-with-aws-the-proper-way-no-more-iam-users-32e94f1d52b6" target="_blank">📰 Medium article</a>: **Getting started with AWS the proper way - no more IAM users (part 1)**, 2024.
+* <a href="https://medium.com/brainly/separating-cloud-environments-with-routing-domains-bd3287ee6ebe" target="_blank">📰 Medium article</a>: **Separating cloud environments with routing domains**, 2023.
 
 
 ### 💻 Other contributions
-* <a href="https://github.com/aws-quickstart/quickstart-linux-bastion" target="_blank">aws-quickstart/quickstart-linux-bastion</a> (💻 code)
-* <a href="https://github.com/cloudflare/terraform-provider-cloudflare" target="_blank">cloudflare/terraform-provider-cloudflare</a> (💻 code)
-* <a href="https://github.com/hashicorp/terraform-provider-aws" target="_blank">hashicorp/terraform-provider-aws</a> (💻 code)
-* <a href="https://github.com/jertel/elastalert2" target="_blank">jertel/elastalert2</a> (💻 code)
-* <a href="https://github.com/Nike-Inc/gimme-aws-creds" target="_blank">Nike-Inc/gimme-aws-creds</a> (💻 code)
-* <a href="https://github.com/okta/terraform-provider-okta" target="_blank">okta/terraform-provider-okta</a> (💻 code)
-* <a href="https://github.com/terraform-aws-modules/terraform-aws-lambda" target="_blank">terraform-aws-modules/terraform-aws-lambda</a> (💻 code)
-
-
-### 🌍 Websites
-<a href="https://shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-it_professional-red?style=for-the-badge&logo=terraform" /></a>
-<a href="https://photo.shyper.pro/" target="_blank"><img src="https://img.shields.io/badge/portfolio-photography-red?style=for-the-badge&logo=photobucket" /></a>
+* <a href="https://github.com/aws-quickstart/quickstart-linux-bastion" target="_blank">💻 code</a>: aws-quickstart/quickstart-linux-bastion
+* <a href="https://github.com/cloudflare/terraform-provider-cloudflare" target="_blank">💻 code</a>: cloudflare/terraform-provider-cloudflare
+* <a href="https://github.com/hashicorp/terraform-provider-aws" target="_blank">💻 code</a>: hashicorp/terraform-provider-aws
+* <a href="https://github.com/jertel/elastalert2" target="_blank">💻 code</a>: jertel/elastalert2
+* <a href="https://github.com/Nike-Inc/gimme-aws-creds" target="_blank">💻 code</a>: Nike-Inc/gimme-aws-creds
+* <a href="https://github.com/okta/terraform-provider-okta" target="_blank">💻 code</a>: okta/terraform-provider-okta
+* <a href="https://github.com/terraform-aws-modules/terraform-aws-lambda" target="_blank">💻 code</a>: terraform-aws-modules/terraform-aws-lambda
 
 
 ### 👍 Main social profiles
