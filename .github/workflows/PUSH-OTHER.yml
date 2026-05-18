@@ -6,26 +6,6 @@ on:
       - master
 
 jobs:
-  labels:
-    name: Update repo labels
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-
-      - name: Download labels' config
-        shell: bash
-        run: |
-          mkdir -p .tmp
-          curl -LsS https://raw.githubusercontent.com/devops-infra/.github/master/.github/labels.yml -o .tmp/labels.yml
-
-      - name: Update labels - dry run
-        uses: crazy-max/ghaction-github-labeler@v6.0.0
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          yaml-file: .tmp/labels.yml
-          dry-run: true
-
   pull_request:
     name: Create Pull Request
     runs-on: ubuntu-latest
@@ -43,7 +23,7 @@ jobs:
 
       - name: Create pull request - bugfix (conditional)
         if: startsWith(github.ref, 'refs/heads/bugfix')
-        uses: devops-infra/action-pull-request@v1.0.2
+        uses: devops-infra/action-pull-request@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           assignee: ${{ github.actor }}
@@ -53,7 +33,7 @@ jobs:
 
       - name: Create pull request - dependency (conditional)
         if: startsWith(github.ref, 'refs/heads/dependency')
-        uses: devops-infra/action-pull-request@v1.0.2
+        uses: devops-infra/action-pull-request@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           assignee: ${{ github.actor }}
@@ -63,7 +43,7 @@ jobs:
 
       - name: Create pull request - documentation (conditional)
         if: startsWith(github.ref, 'refs/heads/documentation')
-        uses: devops-infra/action-pull-request@v1.0.2
+        uses: devops-infra/action-pull-request@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           assignee: ${{ github.actor }}
@@ -73,7 +53,7 @@ jobs:
 
       - name: Create pull request - feature (conditional)
         if: startsWith(github.ref, 'refs/heads/feature')
-        uses: devops-infra/action-pull-request@v1.0.2
+        uses: devops-infra/action-pull-request@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           assignee: ${{ github.actor }}
@@ -83,7 +63,7 @@ jobs:
 
       - name: Create pull request - test (conditional)
         if: startsWith(github.ref, 'refs/heads/test')
-        uses: devops-infra/action-pull-request@v1.0.2
+        uses: devops-infra/action-pull-request@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           assignee: ${{ github.actor }}
@@ -95,7 +75,7 @@ jobs:
 
       - name: Create pull request - other (conditional)
         if: "!startsWith(github.ref, 'refs/heads/bugfix') && !startsWith(github.ref, 'refs/heads/dependabot') && !startsWith(github.ref, 'refs/heads/dependency') && !startsWith(github.ref, 'refs/heads/documentation')  && !startsWith(github.ref, 'refs/heads/feature') && !startsWith(github.ref, 'refs/heads/test')"
-        uses: devops-infra/action-pull-request@v1.0.2
+        uses: devops-infra/action-pull-request@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           assignee: ${{ github.actor }}
